@@ -1,0 +1,14 @@
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\bin\Debug\net8.0\Punto1.exe
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\bin\Debug\net8.0\Punto1.deps.json
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\bin\Debug\net8.0\Punto1.runtimeconfig.json
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\bin\Debug\net8.0\Punto1.dll
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\bin\Debug\net8.0\Punto1.pdb
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\Punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\Punto1.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\Punto1.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\Punto1.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\Punto1.dll
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\refint\Punto1.dll
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\Punto1.pdb
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\Punto1.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P1\Punto1\Punto1\obj\Debug\net8.0\ref\Punto1.dll

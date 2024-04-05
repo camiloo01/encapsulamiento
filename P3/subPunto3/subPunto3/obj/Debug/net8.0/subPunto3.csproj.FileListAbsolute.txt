@@ -1,0 +1,14 @@
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\subPunto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\subPunto3.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\subPunto3.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\subPunto3.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\bin\Debug\net8.0\subPunto3.exe
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\bin\Debug\net8.0\subPunto3.deps.json
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\bin\Debug\net8.0\subPunto3.runtimeconfig.json
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\bin\Debug\net8.0\subPunto3.dll
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\bin\Debug\net8.0\subPunto3.pdb
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\subPunto3.dll
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\refint\subPunto3.dll
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\subPunto3.pdb
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\subPunto3.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\estudio\C#\encapsulamiento\P3\subPunto3\subPunto3\obj\Debug\net8.0\ref\subPunto3.dll
